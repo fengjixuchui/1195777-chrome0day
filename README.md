@@ -1,4 +1,4 @@
-# 1195777-chrome 0.5 day
+# 1195777-chrome 0.5 day CVE-2021-21224
 /*
 BSD 2-Clause License
 Copyright (c) 2021, rajvardhan agarwal
