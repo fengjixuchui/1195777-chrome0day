@@ -23,5 +23,3 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 https://www.youtube.com/embed/qZFzuHNqazo
-
-http://127.0.0.1
