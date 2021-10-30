@@ -1,7 +1,7 @@
 # 1195777-chrome 0.5 day CVE-2021-21224
 /*
 BSD 2-Clause License
-Copyright (c) 2021, rajvardhan agarwal
+Copyright (c) 2021, avboy1337
 All rights reserved.
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -23,5 +23,3 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 https://www.youtube.com/embed/qZFzuHNqazo
-
-http://127.0.0.1
